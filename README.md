@@ -80,3 +80,7 @@ jupyter notebook financials.ipynb
 ```
 
 Executing all cells will pull current OPAL Fuels financial statements from Yahoo Finance and write `financials.xlsx`.
+
+---
+
+README written with the assistance of [Claude Code](https://claude.ai/code) by Anthropic.
